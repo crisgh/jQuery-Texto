@@ -9,4 +9,4 @@ Igualmente, para todos los elementos &quot;li&quot; del identificador anterior, 
 
 Igualmente, para el último de los elementos &quot;li&quot; anteriores, que al pasar el ratón por encima cambie a color verde, y deje de tenerlo al dejar de estar el ratón encima (hover).
 
-[Try](http://crisgh.github.io/JQ-texto/5.6.3-TextoConJQ/texto.html)
+[Try](http://crisgh.github.io/jQuery-Texto/5.6.3-TextoConJQ/texto.html)
